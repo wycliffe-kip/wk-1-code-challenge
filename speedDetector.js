@@ -1,4 +1,5 @@
-//function 
+
+/*//function 
 function speedDetector(speed){
     //setting the speed limit to be 70 
     const maxSpeed = 70;
@@ -21,3 +22,13 @@ function speedDetector(speed){
      }
  }
  speedDetector(80);
+ */
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
