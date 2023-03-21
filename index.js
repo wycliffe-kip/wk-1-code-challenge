@@ -2,7 +2,7 @@
     
     //prompt the user to input student marks
 
-    prompt("Kindly input student marks: ")
+    let marks = prompt("Kindly input student marks: ")
 
     //since marks is a string convert to a number
     marks = Number(marks);
