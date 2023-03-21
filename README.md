@@ -3,6 +3,7 @@ The javascript program prompts the user to input student marks. It then makes su
 Using the if statement, the program checks through different range of student marks and prints out grades for the different inputs from users. 
 The grades ranges considered are:
 
+To display message to the screen with the student's grade window.alert is used.
 A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
  

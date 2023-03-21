@@ -1,4 +1,5 @@
 
+    /*
     //prompt the user to input student marks
 
     let marks = prompt("Kindly input student marks: ")
@@ -12,7 +13,7 @@
     /* check the condition for generating grades to learners 
     based on marks*/
         
-
+/*
     } else {
         let grades;
         if (marks > 79) {
@@ -30,7 +31,7 @@
     console.log(window.alert(`The learner's grade is: , ${grades}`));
         
     }
-
+*/
 
 
 
