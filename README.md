@@ -1,4 +1,5 @@
-# README 
+#   Week 1 Code Challenge
+### Author: Wycliffe Chepchieng
 ## Challenge 1: Student Grade Generator (Toy Problem)
 The javascript program prompts the user to input student marks. It then makes sure that the input is within the range of 0 and 100. 
 Using the if statement, the program checks through different range of student marks and prints out grades for the different inputs from users. 
