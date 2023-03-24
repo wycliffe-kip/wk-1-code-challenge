@@ -1,5 +1,6 @@
-#   Week 1 Code Challenge
-### About Author: 
+#   Toy Problems
+
+## Author: 
     Name: Wycliffe Chepchieng.
     Nationality: Kenyan.
     Current City: Nairobi, Kenya.
